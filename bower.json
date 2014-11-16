@@ -1,6 +1,6 @@
 {
   "name": "sinon-browser-only",
-  "version": "1.10.3",
+  "version": "1.12.1",
   "description": "SinonJS Browser Bundle.",
   "homepage": "https://github.com/wilmoore/sinon-browser-only",
   "authors": [ "Wil Moore III <wil.moore@wilmoore.com>" ],
